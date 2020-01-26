@@ -1,2 +1,2 @@
-# ssh1106
-Circuitpython drivers for SSH1106 displays
+# sh1106
+Circuitpython drivers for SH1106 displays
